@@ -1,2 +1,2 @@
 # my_wiki
-wiki4me
+- [减肥](doc/减肥.md)

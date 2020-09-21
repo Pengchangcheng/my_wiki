@@ -11,6 +11,7 @@
 ## leet_code
 - [中序遍历二叉树](leet_code/中序遍历二叉树.md)
 - [翻转二叉树](leet_code/翻转二叉树.md)
+- [二叉搜索树转累加树](leet_code/二叉搜索树转累加树.md)
 
 
 </br>
